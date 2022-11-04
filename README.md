@@ -5,6 +5,9 @@
 # Video tutorial 
 https://youtu.be/2mnq9iGI6XY
 
+# for more tutorial for search flutter visit our list channel :
+https://www.youtube.com/playlist?list=PLPlli7z6xeL-7iJjbfJ6ocSnQISkXarKY
+
 
 # if you want source code 
 please subscribe in my channel and send me the link of video to my Email: brhomapps@gmail.com
